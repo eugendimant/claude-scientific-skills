@@ -52,6 +52,7 @@
         "./scientific-skills/modal",
         "./scientific-skills/molfeat",
         "./scientific-skills/neurokit2",
+        "./scientific-skills/neuropixels-analysis",
         "./scientific-skills/networkx",
         "./scientific-skills/paper-2-web",
         "./scientific-skills/pathml",
