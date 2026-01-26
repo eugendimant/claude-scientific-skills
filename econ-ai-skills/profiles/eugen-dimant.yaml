@@ -1,0 +1,244 @@
+# Researcher Profile: Eugen Dimant
+# Last Updated: 2026-01-26
+# Source: https://eugendimant.github.io/
+
+name: Eugen Dimant
+website: https://eugendimant.github.io/
+google_scholar: https://scholar.google.com/citations?user=DIMANT_ID
+
+# Current Positions
+positions:
+  - title: Associate Professor of Practice in Behavioral & Decision Sciences
+    institution: University of Pennsylvania
+    type: primary
+  - title: Visiting Professor
+    institution: Stanford University
+    type: visiting
+  - title: Fellow
+    institution: Center for Social Norms and Behavioral Dynamics, UPenn
+  - title: Collaborator
+    institution: Behavior Change for Good Initiative (BCFG), Wharton
+  - title: Network Fellow
+    institution: CESifo
+
+# Previous Experience
+previous_positions:
+  - title: White House Behavioral Science Team (now OES)
+    years: 2022-2023
+    focus: High-impact RCTs related to the opioid epidemic
+
+# Research Fields
+fields:
+  primary:
+    - behavioral_economics
+    - experimental_economics
+  secondary:
+    - political_economy
+    - sociology
+    - political_psychology
+  applied:
+    - behavioral_ethics
+    - crime_and_corruption
+    - social_norms
+    - polarization
+
+# Core Research Themes
+research_themes:
+  social_norms:
+    description: How social norms emerge, are enforced, and erode
+    key_questions:
+      - How does norm disagreement influence behavior?
+      - How do descriptive vs. injunctive norms differ in effects?
+      - What role does social proximity play in norm compliance?
+
+  behavioral_contagion:
+    description: Spread of pro- and anti-social behavior among peers
+    key_questions:
+      - How does observing norm violations affect own compliance?
+      - What is the role of social identity in behavioral contagion?
+      - How do peer effects operate in charitable giving?
+
+  political_polarization:
+    description: Impact of polarization on social preferences and behavior
+    key_questions:
+      - How does polarization affect cooperation and trust?
+      - Do behavioral interventions work across partisan lines?
+      - What is the structure of norm pluralism in politics?
+
+  dishonesty_and_ethics:
+    description: Lying, cheating, and enforcement of ethical norms
+    key_questions:
+      - How do people justify dishonesty through norm perceptions?
+      - What drives punishment of norm violations?
+      - When do nudges for honesty backfire?
+
+  corruption_and_terrorism:
+    description: Political economy of corruption and anti-American terrorism
+    key_questions:
+      - How does military aid affect terrorism?
+      - What are transmission channels for corruption?
+      - How do institutional factors interact with foreign policy?
+
+# Methodological Expertise
+methodology:
+  primary:
+    - laboratory_experiments
+    - online_experiments
+    - survey_experiments
+    - field_experiments
+  econometric:
+    - randomized_controlled_trials
+    - instrumental_variables
+    - difference_in_differences
+    - panel_data
+  other:
+    - meta_analysis
+    - crowdsourced_experimental_designs
+    - NLP_text_analysis
+
+# Key Collaborators
+collaborators:
+  - name: Cristina Bicchieri
+    institution: University of Pennsylvania
+    topics: [social_norms, nudging, behavioral_ethics]
+  - name: Tim Krieger
+    institution: University of Freiburg
+    topics: [terrorism, military_aid, political_economy]
+  - name: Daniel Meierrieks
+    institution: WZB Berlin
+    topics: [terrorism, conflict, political_economy]
+  - name: Simon Gaechter
+    institution: University of Nottingham
+    topics: [social_norms, cooperation]
+  - name: Daniele Nosenzo
+    institution: Aarhus University
+    topics: [norms, experiments]
+  - name: Gary Bolton
+    institution: UT Dallas
+    topics: [behavioral_economics, nudges]
+  - name: Ulrich Schmidt
+    institution: Kiel Institute
+    topics: [behavioral_economics]
+  - name: Tobias Gesche
+    institution: University of Zurich
+    topics: [enforcement, lying]
+  - name: Erik Kimbrough
+    institution: Chapman University
+    topics: [polarization, norms]
+  - name: Shaul Shalvi
+    institution: University of Amsterdam
+    topics: [dishonesty, ethics]
+
+# Selected Publications (by theme)
+publications:
+  top_journal_publications:
+    - title: "Hate Trumps Love: The Impact of Political Polarization on Social Preferences"
+      journal: Management Science
+      year: 2024
+      theme: political_polarization
+      methodology: [online_experiments, survey_experiments]
+
+    - title: "Paying Them to Hate US: The Effect of US Military Aid on Anti-American Terrorism, 1968-2018"
+      journal: The Economic Journal
+      year: 2024
+      coauthors: [Tim Krieger, Daniel Meierrieks]
+      theme: terrorism
+      methodology: [instrumental_variables, panel_data]
+
+    - title: "A Synthesis of Evidence for Policy from Behavioural Science During COVID-19"
+      journal: Nature
+      year: 2023
+      theme: policy_evidence
+      methodology: [meta_analysis, systematic_review]
+
+    - title: "Competition & Moral Behavior: Meta-Analysis of 45 Crowd-Sourced Experimental Designs"
+      journal: PNAS
+      year: 2023
+      theme: behavioral_ethics
+      methodology: [meta_analysis, crowdsourced_experiments]
+
+  other_publications:
+    - title: "Strategic Behavior with Tight, Loose & Polarized Norms"
+      journal: Management Science
+      year: 2024
+      theme: social_norms
+
+    - title: "Nudging Enforcers: How Norm Perceptions and Motives for Lying Shape Sanctions"
+      journal: "PNAS: Nexus"
+      year: 2023
+      coauthors: [Tobias Gesche]
+      theme: enforcement
+
+    - title: "It's Not a Lie If You Believe the Norm Does Not Apply"
+      journal: Games and Economic Behavior
+      year: 2023
+      coauthors: [Cristina Bicchieri, Silvia Sonderegger]
+      theme: dishonesty
+
+    - title: "Social Proximity and the Erosion of Norm Compliance"
+      journal: Games and Economic Behavior
+      year: 2022
+      coauthors: [Cristina Bicchieri, Simon Gaechter, Daniele Nosenzo]
+      theme: social_norms
+
+    - title: "Deviant or Wrong? The Effects of Norm Information on the Efficacy of Punishment"
+      journal: Journal of Economic Behavior & Organization
+      year: 2021
+      coauthors: [Cristina Bicchieri, Hangyi Xiao]
+      theme: punishment
+
+    - title: "Requiem for a Nudge: Framing Effects in Nudging Honesty"
+      journal: Journal of Economic Behavior & Organization
+      year: 2020
+      coauthors: [Gerben A. van Kleef, Shaul Shalvi]
+      theme: nudging
+
+    - title: "Contagion of Pro- and Anti-Social Behavior"
+      journal: Journal of Economic Psychology
+      year: 2019
+      theme: behavioral_contagion
+
+  recent_working_papers:
+    - title: "Measuring Norm Pluralism and Perceived Polarization in US Politics"
+      year: 2024
+      coauthors: [Folco Panizza, Erik Kimbrough, Alexander Vostroknutov]
+      status: under_review
+
+    - title: "Polarization in Multidisciplinary Perspective"
+      journal: "PNAS Nexus (Special Feature Introduction)"
+      year: 2024
+      coauthors: [Erik Kimbrough]
+
+# Data Sources Used
+data_expertise:
+  experimental_platforms:
+    - Prolific
+    - MTurk
+    - oTree
+    - Qualtrics
+  administrative_data:
+    - USAID military aid data
+    - Global Terrorism Database
+  survey_data:
+    - Custom surveys
+    - Crowdsourced experiments
+
+# Comparative Advantage
+comparative_advantage:
+  - Rigorous experimental design for norm measurement
+  - Large-scale online experiments (8,000+ participants)
+  - Cross-disciplinary approach (econ + psychology + sociology)
+  - Policy-relevant behavioral interventions
+  - Crowdsourced/multi-site experimental designs
+  - Meta-analytic approaches to behavioral questions
+  - Norm elicitation methodologies
+
+# Research Gaps & Interests (inferred from trajectory)
+potential_directions:
+  - Norm dynamics in digital/AI contexts
+  - Polarization interventions that work
+  - Behavioral contagion in online networks
+  - Social norms and misinformation
+  - Cross-cultural norm variation
+  - Long-run effects of behavioral interventions
+  - Norms and AI decision-making
