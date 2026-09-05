@@ -1,25 +1,21 @@
 # Econ AI Skills Sync Report
 
-Generated: 2026-01-26T20:37:58.861155
+Generated: 2026-09-05T09:34:59.361726
 Source: meleantonio/awesome-econ-ai-stuff
 Dry run: False
 
 ## Summary
-- Added: 12
-- Updated: 0
-- Skipped (up to date): 0
+- Added: 5
+- Updated: 1
+- Skipped (up to date): 11
 - Failed: 0
 
 ## Added Skills
-- analysis/python-panel-data
+- engineering/code-simplifier
+- engineering/commit-push-pr
+- engineering/sdd
+- engineering/techdebt
+- theory/general-equilibrium-model-builder
+
+## Updated Skills
 - analysis/r-econometrics
-- analysis/stata-regression
-- communication/beamer-presentation
-- communication/econ-visualization
-- data/api-data-fetcher
-- data/stata-data-cleaning
-- ideation/research-ideation
-- literature/lit-review-assistant
-- theory/latex-econ-model
-- writing/academic-paper-writer
-- writing/latex-tables
